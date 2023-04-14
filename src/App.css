@@ -1,4 +1,7 @@
 .button{
   width: 200px;
   height: 200px;
+  background-color: #515151;
+  padding: 5px;
+  margin: 5px;
 }
